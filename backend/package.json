@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "axios": "^1.1.2",
+        "laravel-vite-plugin": "^0.8.0",
+        "vite": "^4.0.0",
+        "vite-plugin-static-copy": "^0.17.0"
+    },
+    "dependencies": {
+        "admin-lte": "^3.2.0",
+        "jquery": "^3.7.0",
+        "jquery-maskmoney": "^3.0.2"
+    }
+}
